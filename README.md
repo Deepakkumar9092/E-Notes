@@ -4,4 +4,6 @@ viewing, editing, and deleting notes.
 and login with encrypted password storage.
 • Implemented pagination for efficient display and navigation of notes.
 • Utilized Spring Boot for backend development, ensuring scalability and performance. Conducted thorough testing to
-ensure security and functionality of authentication mechanisms.
+ensure security and functionality of authen![javaNotesImg](https://github.com/user-attachments/assets/3113ab97-0d60-4f87-b0b5-0a754808b57e)
+![img](https://github.com/user-attachments/assets/0b5c2722-53b0-4b12-914a-23ed645ceef5)
+tication mechanisms.
