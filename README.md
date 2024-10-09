@@ -1,3 +1,4 @@
+![javaNotesImg](https://github.com/user-attachments/assets/ec50727f-1a84-4af4-9a86-bab65affb6f0)
 ![notes1](https://github.com/user-attachments/assets/623ab3ea-9c86-4611-80ea-269940873c7b)
 Developed ENotes web application with user account creation and authentication. Implemented features for adding,
 viewing, editing, and deleting notes.
